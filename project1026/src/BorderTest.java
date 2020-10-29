@@ -25,7 +25,7 @@ class BorderTest{
 		frame.add(bt_west,BorderLayout.WEST);//서쪽
 		frame.add(bt_east,BorderLayout.EAST);//동쪽
 		
-		frame.add(bt_center,BorderLayout.CENTER);//센터... 센터는 명시하지않아도 적용된다
+		frame.add(bt_center,BorderLayout.CENTER);//센터... 센터는 명시하지않아도 적용된다	
 
 
 		//프레임 보이기 / 사이즈 정의
